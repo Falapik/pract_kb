@@ -1,0 +1,78 @@
+{
+  "Вода": [
+    {
+      "title": "Вода",
+      "description": "Обычная вода.",
+      "imageSrc": "/wer3.jpg",
+      "weight": 500,
+      "price": 24
+    },
+    {
+      "title": "Вода газированная",
+      "description": "Обычная вода с газами.",
+      "imageSrc": "/wer4.png",
+      "weight": 500,
+      "price": 740
+    }
+  ],
+  "Соки": [
+    {
+      "title": "Сок яблочный 'Добрый'",
+      "description": "Классический яблочный сок из натуральных продуктов.",
+      "imageSrc": "/apple.jpg",
+      "weight": 1000,
+      "price": 169
+    },
+    {
+      "title": "Сок апельсиновый 'Добрый'",
+      "description": "Классический апельсиновый сок из натуральных продуктов.",
+      "imageSrc": "/ora.jpg",
+      "weight": 1000,
+      "price": 168
+    },
+    {
+      "title": "Сок мультифрукт 'Добрый'",
+      "description": "Сок из натуральных продуктов.",
+      "imageSrc": "/mult.jpg",
+      "weight": 2000,
+      "price": 229
+    },
+    {
+      "title": "Сок грейпфрутовый Rich",
+      "description": "Грейпрфрутовый сок без добавления добавок",
+      "imageSrc": "/grap.jpg",
+      "weight": 1000555,
+      "price": 219
+    },
+    {
+      "title": "Сок томатный Rich",
+      "description": "Изысканный томатный сок из натуральных продуктов.",
+      "imageSrc": "/tom.jpg",
+      "weight": 1000,
+      "price": 219
+    }
+  ],
+  "Газировка": [
+    {
+      "title": "Газированный апельсиновый сок 'Добрый'",
+      "description": "Освежающий вкус апельсина",
+      "imageSrc": "/fanta.jpg",
+      "weight": 1500,
+      "price": 159
+    },
+    {
+      "title": "Кола 'Добрый'",
+      "description": "Вкуснейшая кола без добавок",
+      "imageSrc": "/cola.jpg",
+      "weight": 1000,
+      "price": 119
+    },
+    {
+      "title": "Квас 'Добрый'",
+      "description": "Замечательный летний напиток на квасной основе",
+      "imageSrc": "/kvas.jpg",
+      "weight": 1000,
+      "price": 89
+    }
+  ]
+}
